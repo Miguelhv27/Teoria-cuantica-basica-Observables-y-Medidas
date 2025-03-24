@@ -35,7 +35,7 @@ Para ejecutar este proyecto en un sistema local, sigue los siguientes pasos:
 2. Abrir Jupyter Notebook y abrir el archivo principal del proyecto.
 3. Ejecutar las celdas en orden, asegurandose que todas las dependencias hayan sido instaladas previamente. 
 
-## Authors
+## Autor
 
 * **Miguel Ángel Hernández Vargas**
 
